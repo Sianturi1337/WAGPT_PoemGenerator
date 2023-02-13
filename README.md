@@ -13,6 +13,17 @@ These instructions will help you to run this code on your local machine.
 - npm (Node Package Manager)
 - CURL Extension
 
+### Important
+
+- OPENAI_APIKEY: OpenAI API Key for authorization
+- nama_mu: Your name
+- prompt: Prompt text for generating the poem
+- max_tokens: Maximum number of tokens to generate
+- temperature: Controls the creativity of the text generation
+- FONNTE_API: Fonnte API Key for authorization
+- TARGET_PHONE_NUMBER: Phone number to send the SMS to
+- nama_pasangan: Your partner's name
+
 ### Installing with NodeJS
 
 1. Clone this repository to your local machine.
